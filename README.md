@@ -101,7 +101,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 If you have any questions or feedback, feel free to contact me:
 
 - GitHub: [Ahsan Khizar](https://github.com/ahsankhizar5)
-- Email: [exampleemail@example.com](mailto:ahsankhizar135@example.com)
+- Email: [ahsankhizar135@example.com](mailto:ahsankhizar135@example.com)
 
 ---
 
